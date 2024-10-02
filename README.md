@@ -9,4 +9,4 @@
 - 📫 How to reach me: <a href="mailto:vista9@duck.com">vista9@duck.com</a>
 - ⚡ Fun fact: <b>I have no enemies, at least none that I know of.</b>
 
-![komaru](https://c.tenor.com/0_nl75aXaMgAAAAd/tenor.gif)
+<img src="https://c.tenor.com/0_nl75aXaMgAAAAd/tenor.gif" alt="komaru" />
